@@ -1,0 +1,23 @@
+﻿
+    <Window x:Class="TGP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d3="http://research.microsoft.com/DynamicDataDisplay/1.0"
+        Title="MY DATA VISUALIZER" Height="753" Width="1127"  FontStyle="Normal" Background="Beige">
+    <Grid Width="1115">
+        <TreeView Height="300" HorizontalAlignment="Left" Margin="12,42,0,0" Name="treeViewYaxis" VerticalAlignment="Top" Width="200" AllowDrop="False" Loaded="treeViewYaxis_Loaded" />
+        <TreeView Height="92" HorizontalAlignment="Left" Margin="285,422,0,0" Name="treeViewXaxis" VerticalAlignment="Top" Width="523" AllowDrop="False" Loaded="treeViewXaxis_Loaded"  />
+        <TreeView Height="300" HorizontalAlignment="Left" Margin="867,42,0,0" Name="treeViewCommonaxis" VerticalAlignment="Top" Width="200" AllowDrop="True" Loaded="treeViewCommonaxis_Loaded"  />
+        <Slider Height="23" HorizontalAlignment="Left" Margin="423,533,0,0" Name="MySlider" VerticalAlignment="Top" Width="246" Minimum="0" Maximum="1"  TickPlacement="BottomRight" Ticks="0,1" ValueChanged="MySlider_ValueChanged" />
+        <Label Content="Wave1" Height="28" HorizontalAlignment="Left" Margin="404,562,0,0" Name="Wave1" VerticalAlignment="Top" Width="56" />
+        <Label Content="Wave2" Height="28" HorizontalAlignment="Left" Margin="642,562,0,0" Name="Wave2" VerticalAlignment="Top" />
+    
+
+        <Label Content="© dsandesari 2015" Height="28" HorizontalAlignment="Left" Margin="953,625,0,0" Name="dsandesari" VerticalAlignment="Top" Width="114" />
+        <Label Content="MY DATA VISUALIZER" Height="28" HorizontalAlignment="Left" Margin="471,12,0,0" Name="Title" VerticalAlignment="Top" Width="198" FontSize="16" FontWeight="Bold" />
+        <Button Content="DrawGraph" Height="23" HorizontalAlignment="Left" Margin="137,448,0,0" Name="DrawGraph" VerticalAlignment="Top" Width="75" Click="DrawGraph_Click" />
+
+        <Canvas Height="299" HorizontalAlignment="Left" Margin="286,43,0,0" Name="chartArea" VerticalAlignment="Top" Width="522" ClipToBounds="False" Background="#00FFD900"/>
+        <Label Content="ds168@zips.uakron.edu" Height="28" HorizontalAlignment="Left" Margin="956,642,0,0" Name="label1" VerticalAlignment="Top" Width="143" />
+    </Grid>
+</Window>

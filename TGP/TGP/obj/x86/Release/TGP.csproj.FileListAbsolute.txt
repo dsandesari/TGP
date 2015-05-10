@@ -1,0 +1,14 @@
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\bin\Release\TGP.exe.config
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\bin\Release\TGP.exe
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\bin\Release\TGP.pdb
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\bin\Release\DynamicDataDisplay.dll
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\TGP.csprojResolveAssemblyReference.cache
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\MainWindow.baml
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\MainWindow.g.cs
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\App.g.cs
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\TGP_MarkupCompile.cache
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\TGP.g.resources
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\TGP.Properties.Resources.resources
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\TGP.csproj.GenerateResource.Cache
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\TGP.exe
+C:\Users\ds168\Documents\Visual Studio 2010\Projects\TGP\TGP\obj\x86\Release\TGP.pdb
